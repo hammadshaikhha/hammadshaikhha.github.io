@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Hammad's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
