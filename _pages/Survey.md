@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Practice ECO100 Survey"
 permalink: /survey/
 author_profile: false
