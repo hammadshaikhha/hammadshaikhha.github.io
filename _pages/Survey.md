@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Survey"
+title: "Practice ECO100 Survey"
 permalink: /survey/
 author_profile: true
 ---
