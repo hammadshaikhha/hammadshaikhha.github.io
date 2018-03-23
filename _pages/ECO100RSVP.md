@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Information Session about Upper Year Economics"
-permalink: /ECO100Survey/
+permalink: /ECO100RSVP/
 author_profile: false
 ---
 
