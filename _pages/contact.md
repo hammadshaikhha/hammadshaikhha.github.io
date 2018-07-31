@@ -5,11 +5,15 @@ permalink: /contact/
 author_profile: true
 ---
 
-Feel free to contact me about any of my research papers.
+Feel free to contact me about any of my educational material or research papers.
 
 Email
 ---
 <hammy.shaikh@mail.utoronto.ca>
+
+Twitter
+---
+<https://twitter.com/HammadShaikhha>
 
 Address
 ---
