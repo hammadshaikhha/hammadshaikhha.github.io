@@ -22,9 +22,13 @@ Work experience
   * Structural estimation in Matlab.  
   * Supervisor: Professor Robert McMillan
 
-* Summer 2017 - Present, Project: Affirmitive Action and Student Effort
+* Summer 2017 - 2018, Project: Affirmitive Action and Student Effort
   * Empirical analysis in Stata.
   * Supervisor: Professor Natalie Bau
+  
+**Course Instructor**
+* Winter 2018: Human Capital and Education in the Economy
+  * Student evaluation: mean rating = 4.6/5 and median rating = 5/5 
 
 **Teaching Assistant**
 * Fall 2013 - Summer 2014: Mathematics Teaching Assistant
@@ -33,7 +37,10 @@ Work experience
   * Linear Algebra
 
 * Fall 2014 - Present: Economics Teaching Assistant
-  * Quantative Methods of Economics (x6)
+  * Quantative Methods of Economics (x7)
+  * Undergraduate Econometrics (x1)
+  * Matlab and Stata (undergrad and graduate courses) (x1)
+ 
   
 Computer Skills
 ======
@@ -45,6 +52,8 @@ Computer Skills
   * Intermediate
 * Rstudio (Simulation)
   * Intermediate 
+* HTML/CSS/Java Script (Web development)
+  * Beginner
 
 Working Papers
 ======
@@ -52,8 +61,7 @@ Working Papers
 
 Work in Progress
 ======
-* The Impact of Information Disclosure on Student Course Selection, with Robert McMillan and Linda Wang
-
+* The Impact of Information Disclosure on Student Course Selection (2018), with Robert McMillan and Linda Wang
   
 Conferences Attended
 ======
@@ -70,4 +78,4 @@ Teaching
 Other Interests
 ======
 * Playing board games
-  * I organize board game nights for the Graduate Economics Union at UofT.
+  * I organize board game nights for the Graduate Economics Union at U of T.
