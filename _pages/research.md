@@ -14,3 +14,5 @@ Working Papers
 Research in Progress
 ---
 **The Impact of Information Disclosure on Student Course Selection (2018)**, with Robert McMillan and Linda Wang
+
+**Investigating the Statistical Trade-offs in Parametric Contextual Bandit Algorithms (2019)** with Anna Rafferty, Joseph Williams, and Arghavan Modiri
