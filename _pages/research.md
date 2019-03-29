@@ -14,6 +14,4 @@ Working Papers
 Research in Progress
 ---
 **The Impact of Information Disclosure on Student Course Selection (2018)**, with Robert McMillan and Linda Wang
-
-**Balancing Student Success and Inferring Personalized Effects in Dynamic Experiments (2019)**, with Arghavan Modiri, Joseph Williams, and Anna Rafferty.
-
+> University students may enrol in less challenging courses despite being eligible for more rigorous courses that may be more beneficial for them. This mismatch of easy courses and high-quality students discourages departments from offering challenging courses, and also limits the human capital potential of post-secondary students. We conduct a randomized experiment to examine the impact of informing high-achieving first-year economics students about their future course options. We find that providing an information session significantly increases the probability of eligible first-year students enrolling in the most rigorous second-year economics courses. Our result sheds light on the determinants of students’ course selection and suggests course enrolment strategies for departments and universities.
