@@ -26,6 +26,10 @@ Work experience
   * Empirical analysis in Stata.
   * Supervisor: Professor Natalie Bau
   
+* Winter 2018 - Present, Project: New Method for Estimating Teacher Value Added
+  * Maximum Likelihood Estimation in R. 
+  * Supervisor: Professor Jiaying Gu
+  
 **Course Instructor**
 * Winter 2018: Human Capital and Education in the Economy
   * Student evaluation: mean rating = 4.6/5 and median rating = 5/5 
@@ -58,15 +62,22 @@ Computer Skills
 Working Papers
 ======
 * Revisiting the Racial Achievement Gap: Evidence from Recent US Panel Data (2017)
+* The Impact of Information Disclosure on Student Course Selection (2018), with Robert McMillan and Linda Wang
 
 Work in Progress
 ======
-* The Impact of Information Disclosure on Student Course Selection (2018), with Robert McMillan and Linda Wang
+* Nudging Students Towards Self Regulated Learning: Experimental Evidence from an Online Course, with Lisa Lim, Joseph Jay Williams, and Jen Campbell.
+
+Refereed Conference Proceedings 
+======
+Balancing Student Success and Inferring Personalized Effects in Dynamic Experiments (2019), with Hammad Shaikh, Arghavan Modiri, Joseph Jay Williams, and Anna Rafferty
+
   
 Conferences Attended
 ======
-* "Frontier in Economics of Education", UTM, April 2017.
-* “Intersection of Econometrics and Applied Micro”, U of T, October 2017.
+* "Frontier in Economics of Education", Mississauga, April 2017.
+* “Intersection of Econometrics and Applied Micro”, Toronto, October 2017.
+* "Educational Data Mining", Montreal, July 2019
 
   
 Teaching
