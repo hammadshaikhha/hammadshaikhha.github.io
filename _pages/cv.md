@@ -13,7 +13,7 @@ Education
 ======
 * BSc in Math and Economics, University of Toronto, Mississauga,  2014
 * MA in Economics, University of Toronto, 2015
-* PhD in Economics, University of Toronto, 2021 (expected)
+* PhD in Economics, University of Toronto, 2022 (expected)
 
 Work experience
 ======
@@ -61,12 +61,16 @@ Computer Skills
 
 Working Papers
 ======
-* Revisiting the Racial Achievement Gap: Evidence from Recent US Panel Data (2017)
+* Improving Online Learning Through Course Design: A Microeconomic Approach (2021)
+* Provision of Online Public Goods: Evidence From a Peer Discussion Board (2020)
 * The Impact of Information Disclosure on Student Course Selection (2018), with Robert McMillan and Linda Wang
+* Revisiting the Racial Achievement Gap: Evidence from Recent US Panel Data (2017)
 
 Work in Progress
 ======
-* Nudging Students Towards Self Regulated Learning: Experimental Evidence from an Online Course, with Lisa Lim, Joseph Jay Williams, and Jen Campbell.
+* Understanding Gender Gaps in STEM: A Estimable Model of College Major Choice, with Robert McMillan and Linda Wang
+* Mitigating Student Procrastination Through Personalized Reminders: Evidence From a Adaptive Field Experiment, with Joseph Jay Williams and Angela Zavaleta Bernuy
+
 
 Refereed Conference Proceedings 
 ======
@@ -75,8 +79,10 @@ Balancing Student Success and Inferring Personalized Effects in Dynamic Experime
   
 Conferences Attended
 ======
-* "Frontier in Economics of Education", Mississauga, April 2017.
-* “Intersection of Econometrics and Applied Micro”, Toronto, October 2017.
+* "Artificial Intelligence in Education", Online, February 2021
+* "Conference on Digital Experimentation", Online, November 2020
+* "Frontier in Economics of Education", Mississauga, April 2017
+* “Intersection of Econometrics and Applied Micro”, Toronto, October 2017
 * "Educational Data Mining", Montreal, July 2019
 
   
