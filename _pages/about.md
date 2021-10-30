@@ -15,3 +15,5 @@ My research focuses on improving the design of foundational university courses w
 
 
 <button name="button" onclick="https://shaikhhammad.com/files/HammadShaikhCV.pdf">Curriculum Vitae</button>
+
+[Curriculum Vitae](https://shaikhhammad.com/files/HammadShaikhCV.pdf){: .btn}
