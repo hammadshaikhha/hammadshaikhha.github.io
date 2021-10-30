@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 *  Citizenship: Canadian
-*  Research Interests: Public, Experimental, Behavioural, and Economics of Education 
+*  Research Interests: Public, Behavioural, Applied Econometrics, and Economics of Education 
 *  Teaching Interests: Public, Education, Econometrics, and Data Science for Economist
 
 
@@ -81,5 +81,6 @@ Computer Skills
 
 Academic Service
 ======
-Departmental Chair Search Commitee Member, Mississauga, 2020
-Board Games Event Coordinator, U of T Graduate Economics Union, 2016 - 2019
+* Graduate Student Mentor, University of Toronto, 2017-2020
+* Departmental Chair Search Commitee Member, Mississauga, 2020
+* Board Games Event Coordinator, Graduate Economics Union, 2016 - 2019
