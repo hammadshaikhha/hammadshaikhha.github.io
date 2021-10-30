@@ -13,7 +13,8 @@
 
   @include breakpoint($x-large) {
     max-width: $x-large;
-  }
+    display: flex
+   }
 }
 
 .page {
