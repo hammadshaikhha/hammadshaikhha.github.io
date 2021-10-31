@@ -24,7 +24,7 @@ Teaching Assistant
 
 **Applied Econometrics II: Time Series and Panel Data**
 
-Tutorials: <span style="color:blue">[Measurement Error](https://shaikhhammad.com/files/ECO475/MeasurementErrorAnnotated.pdf)</span>; 
+Tutorials: <span style="color:blue">[Measurement Error](https://shaikhhammad.com/files/ECO475/MeasurementErrorAnnotated.pdf); [Simaltaneous Equations](https://shaikhhammad.com/files/ECO475/SimaltaneousEquationsAnnotated.pdf); [Time Series Intro](https://shaikhhammad.com/files/ECO475/TimeSeriesIntroAnnotated.pdf); [Seasonality and Stationarity](https://shaikhhammad.com/files/ECO475/TimeSeriesSesonalAdjustmentStationarityAnnotated.pdf); [Time Series Transformations](https://shaikhhammad.com/files/ECO475/TimeSeriesTransformationsInferenceAnnotated.pdf); [Unit Root and Cointegeration](https://shaikhhammad.com/files/ECO475/TimeSeriesUnitRootCointegerationAnnotated.pdf); [Panel Data Intro](https://shaikhhammad.com/files/ECO475/PanelDataIntroAnnotated.pdf); [Fixed Effects](https://shaikhhammad.com/files/ECO475/PanelDataFixedEffectsAnnotated.pdf); [Binary Response Models](https://shaikhhammad.com/files/ECO475/BinaryResponseModelAnnotated.pdf); [Tobit Model](https://shaikhhammad.com/files/ECO475/MLEandTobitAnnotated.pdf); [Truncation and Censoring](https://shaikhhammad.com/files/ECO475/TobitCensoredTruncatedAnnotated.pdf); [Sample Selection](https://shaikhhammad.com/files/ECO475/SampleSelectionAnnotated.pdf) </span>
 
 
 **Matlab, R, and Stata Programming for Economists**
