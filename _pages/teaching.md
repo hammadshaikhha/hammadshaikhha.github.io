@@ -5,15 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
 Course Instructor 
 ---
 **Human Capital and Education in the Economy**
 
-<u>Description</u>: This course addresses empirical and theoretical issues in education economics. Topics include the interaction of human capital with growth and inequality, teacher incentives and teacher quality, early childhood education, and the racial achievement gap.
-
 <u>Course Evaluation</u>: mean student rating = 4.6/5 (median = 5/5) 
 
+<u>Lectures</u>: <span style="color:blue"> [Statistics Review](https://shaikhhammad.com/files/ECO375/Lecture1StatsReviewAnnotated.pdf); [Linear Regression](https://shaikhhammad.com/files/ECO375/Lecture2LinearRegAnnotated.pdf); [Multiple Regression](https://shaikhhammad.com/files/ECO375/Lecture3MultipleRegAnnotated.pdf); [Education for Masses](https://shaikhhammad.com/files/ECO375/Lecture4EducationforMassesAnnotated.pdf); [Race Between Education and Technology](https://shaikhhammad.com/files/ECO375/lecture5RaceBetweenEducandTechAnnotated.pdf); [Causal Inference Intro](https://shaikhhammad.com/files/ECO375/Lecture6IntroductiontoCausalInference.pdf); [IV and Diff-in-Diff](https://shaikhhammad.com/files/ECO375/Lecture7InstrumentalVariableandDifferenceinDifferencesAnnotated.pdf); [Returns to Education](https://shaikhhammad.com/files/ECO375/Lecture8EducationReturnsAnnotated.pdf); [Duflo (2001) Review](https://shaikhhammad.com/files/ECO375/Lecture9ReturnstoEducationandDiffDiffannotated.pdf); [Non-pecuniary Returns to Education](https://shaikhhammad.com/files/ECO375/Lecture10NonPecuniaryReturnstoEducationAnnotated.pdf); [Racial Achievement Gaps](https://shaikhhammad.com/files/ECO375/Lecture11RacialAchievementGapAnnotated.pdf) </span>
 ---
 
 Teaching Assistant
@@ -32,5 +30,4 @@ Teaching Assistant
 **Matlab, R, and Stata Programming for Economists**
 
 <span style="color:blue">[Repository with Data Analysis Coding Tutorials](https://github.com/hammadshaikhha/Data-Analysis-Coding-Tutorials)</span>
-
 ---
