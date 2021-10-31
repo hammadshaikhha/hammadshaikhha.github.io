@@ -13,7 +13,7 @@ Research
 
 **Provision of Online Public Goods: Evidence From a Peer Discussion Board (2020)**
 
-**Understanding Gender Gaps in STEM Specialization (2020)**, with with Robert McMillan and Linda Wang
+**Understanding Gender Gaps in STEM Specialization (2020)**, with Robert McMillan and Linda Wang
 
 **The Impact of Information Disclosure on Student Course Selection (2018)**, with Robert McMillan and Linda Wang
 
