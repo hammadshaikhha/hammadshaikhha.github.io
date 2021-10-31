@@ -49,7 +49,7 @@ Work experience
 **Teaching Assistant**
 * Fall 2013 - Summer 2014: Mathematics Teaching Assistant
   * Calculus I (x4)
-  * Calclus II
+  * Calculus II
   * Linear Algebra
 
 * Fall 2014 - Present: Economics Teaching Assistant
