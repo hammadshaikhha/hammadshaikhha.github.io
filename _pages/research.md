@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-
-
-Research 
+ 
 ---
 **Improving Online Learning Through Course Design: A Microeconomic Approach (2021)**
 
