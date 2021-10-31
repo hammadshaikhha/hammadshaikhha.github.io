@@ -14,6 +14,7 @@ Course Instructor
 <u>Lectures</u>: <span style="color:blue"> [Statistics Review](https://shaikhhammad.com/files/ECO411/Lecture1StatsReviewAnnotated.pdf); [Linear Regression](https://shaikhhammad.com/files/ECO411/Lecture2LinearRegAnnotated.pdf); [Multiple Regression](https://shaikhhammad.com/files/ECO411/Lecture3MultipleRegAnnotated.pdf); [Education for Masses](https://shaikhhammad.com/files/ECO411/Lecture4EducationforMassesAnnotated.pdf); [Race Between Education and Technology](https://shaikhhammad.com/files/ECO411/lecture5RaceBetweenEducandTechAnnotated.pdf); [Causal Inference Intro](https://shaikhhammad.com/files/ECO411/Lecture6IntroductiontoCausalInference.pdf); [IV and Diff-in-Diff](https://shaikhhammad.com/files/ECO411/Lecture7InstrumentalVariableandDifferenceinDifferencesAnnotated.pdf); [Returns to Education](https://shaikhhammad.com/files/ECO411/Lecture8EducationReturnsAnnotated.pdf); [Duflo (2001) Review](https://shaikhhammad.com/files/ECO411/Lecture9ReturnstoEducationandDiffDiffannotated.pdf); [Non-pecuniary Returns to Education](https://shaikhhammad.com/files/ECO411/Lecture10NonPecuniaryReturnstoEducationAnnotated.pdf); [Racial Achievement Gaps](https://shaikhhammad.com/files/ECO411/Lecture11RacialAchievementGapAnnotated.pdf) </span>
 
 ---
+
 Teaching Assistant
 ---
 <u>Awards</u>: I recieved the Excellence in Teaching by a Economics Teaching Assistant award in 2020 and was also nominated for a tri-campus TA award in 2013. 
