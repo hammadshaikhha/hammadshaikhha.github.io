@@ -12,6 +12,7 @@ Course Instructor
 <u>Course Evaluation</u>: mean student rating = 4.6/5 (median = 5/5) 
 
 <u>Lectures</u>: <span style="color:blue"> [Statistics Review](https://shaikhhammad.com/files/ECO411/Lecture1StatsReviewAnnotated.pdf); [Linear Regression](https://shaikhhammad.com/files/ECO411/Lecture2LinearRegAnnotated.pdf); [Multiple Regression](https://shaikhhammad.com/files/ECO411/Lecture3MultipleRegAnnotated.pdf); [Education for Masses](https://shaikhhammad.com/files/ECO411/Lecture4EducationforMassesAnnotated.pdf); [Race Between Education and Technology](https://shaikhhammad.com/files/ECO411/lecture5RaceBetweenEducandTechAnnotated.pdf); [Causal Inference Intro](https://shaikhhammad.com/files/ECO411/Lecture6IntroductiontoCausalInference.pdf); [IV and Diff-in-Diff](https://shaikhhammad.com/files/ECO411/Lecture7InstrumentalVariableandDifferenceinDifferencesAnnotated.pdf); [Returns to Education](https://shaikhhammad.com/files/ECO411/Lecture8EducationReturnsAnnotated.pdf); [Duflo (2001) Review](https://shaikhhammad.com/files/ECO411/Lecture9ReturnstoEducationandDiffDiffannotated.pdf); [Non-pecuniary Returns to Education](https://shaikhhammad.com/files/ECO411/Lecture10NonPecuniaryReturnstoEducationAnnotated.pdf); [Racial Achievement Gaps](https://shaikhhammad.com/files/ECO411/Lecture11RacialAchievementGapAnnotated.pdf) </span>
+
 ---
 
 Teaching Assistant
@@ -30,4 +31,5 @@ Teaching Assistant
 **Matlab, R, and Stata Programming for Economists**
 
 <span style="color:blue">[Repository with Data Analysis Coding Tutorials](https://github.com/hammadshaikhha/Data-Analysis-Coding-Tutorials)</span>
+
 ---
