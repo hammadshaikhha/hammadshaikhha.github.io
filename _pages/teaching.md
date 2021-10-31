@@ -29,5 +29,6 @@ Tutorials: <span style="color:blue">[Measurement Error](https://shaikhhammad.com
 
 **Matlab, R, and Stata Programming for Economists**
 
+<span style="color:blue">[Repository with Data Analysis Coding Tutorials](https://github.com/hammadshaikhha/Data-Analysis-Coding-Tutorials)</span>
 
 --
