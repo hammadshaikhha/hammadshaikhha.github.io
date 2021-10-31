@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<span style="color:blue"> [Click Here for PDF Version of CV](https://shaikhhammad.com/files/HammadShaikhCV.pdf) </span>
+
+
+Summary
+======
 *  Citizenship: Canadian
 *  Research Interests: Public, Behavioural, Applied Econometrics, and Economics of Education 
 *  Teaching Interests: Public, Education, Econometrics, and Data Science for Economist
