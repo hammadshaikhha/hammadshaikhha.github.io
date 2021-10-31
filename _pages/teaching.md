@@ -23,6 +23,8 @@ Teaching Assistant
 **Applied Econometrics I: Cross-Sectional Data**
 
 **Applied Econometrics II: Time Series and Panel Data**
+Tutorials: [Measurement Error](https://shaikhhammad.com/files/ECO475/MeasurementErrorAnnotated.pdf)
+
 
 **Matlab, R, and Stata Programming for Economists**
 
