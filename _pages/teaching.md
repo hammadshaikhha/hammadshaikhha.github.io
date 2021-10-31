@@ -20,19 +20,11 @@ Teaching Assistant
 ---
 <u>Awards</u>: I recieved the Excellence in Teaching by a Economics Teaching Assistant award in 2020 and was also nominated for a tri-campus TA award in 2013. 
 
-**Applied Econometrics I**
+**Applied Econometrics I: Cross-Sectional Data**
 
-<u>Description</u>: This course is an introduction to econometrics. Statistical foundations and the interpretation of multiple regression models, with an emphasis on cross-sectional data. 
+**Applied Econometrics II: Time Series and Panel Data**
 
-
-**Applied Econometrics II**
-
-<u>Description</u>: Course extends regression model in several possible directions: time series analysis; panel data techniques; instrumental variables; simultaneous equations; limited dependent variables. 
-
-
-**Matlab, R, and Stata for Economists**
-
-<u>Description</u>: Covers data cleaning, visualization, and analysis for both economic undergraduate and graduate students in Matlab, R, and Stata.
+**Matlab, R, and Stata Programming for Economists**
 
 
 --
