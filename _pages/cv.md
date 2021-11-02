@@ -16,7 +16,7 @@ Summary
 ======
 *  Citizenship: Canadian
 *  Research Interests: Public, Behavioural, Applied Econometrics, and Economics of Education 
-*  Teaching Interests: Public, Education, Econometrics, and Data Science for Economist
+*  Teaching Interests: Public, Education, Econometrics, and Programming for Economist
 
 
 Education
@@ -51,11 +51,14 @@ Work experience
   * Calculus I (x4)
   * Calculus II
   * Linear Algebra
+  * Introduction to Mathematical Proofs
 
 * Fall 2014 - Present: Economics Teaching Assistant
-  * Quantative Methods of Economics (x7)
-  * Undergraduate Econometrics (x1)
-  * Matlab and Stata (undergrad and graduate courses) (x1)
+  * Quantative Methods of Economics (x8)
+  * Applied Econometrics (x3)
+  * Empirical Methods of Microeconomics
+  * Matlab, R, and Stata Programming for Economists (x3)
+  * UTM Graduate Help Desk (x6)
 
 **Research Assistant**
 * Summer 2014 - Present, Project: Incentive Design in Education
@@ -89,3 +92,13 @@ Academic Service
 * Graduate Student Mentor, University of Toronto, 2017-2020
 * Departmental Chair Search Commitee Member, Mississauga, 2020
 * Board Games Event Coordinator, Graduate Economics Union, 2016 - 2019
+* First Year University Transition Mentor, Mississauga, 2015
+
+Languages
+======
+* English (Fluent), Urdu (Fluent), and Hindi (Intermediate) 
+
+References
+======
+<a href = "mailto: mcmillan@chass.utoronto.ca">Robert McMillan</a>, <a href = "mailto: siow@chass.utoronto.ca">Aloysius Siow</a>, and <a href = "mailto: ra.zarate@utoronto.ca">Roman Andres Zarate </a>
+
