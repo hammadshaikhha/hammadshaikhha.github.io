@@ -17,7 +17,7 @@ Course Instructor
 
 Teaching Assistant
 ---
-<u>Awards</u>: I recieved the Excellence in Teaching award as an Economics Teaching Assistant in 2020 and was also nominated for a tri-campus TA award in 2013. 
+<u>Awards</u>: I recieved the Economics Teaching Assistant award in 2020 and was also nominated for a tri-campus TA award in 2013. 
 
 **Applied Econometrics I: Cross-Sectional Data**
 
