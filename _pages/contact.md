@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Feel free to contact me about any of my educational material or research papers.
+Feel free to contact me about any of my research papers or educational materials.
 
 Email
 ---
