@@ -9,7 +9,7 @@ Feel free to contact me about any of my research papers or educational materials
 
 Email
 ---
-<hammy.shaikh@mail.utoronto.ca>
+<hammad.shaikh@uis.no>
 
 Twitter
 ---
