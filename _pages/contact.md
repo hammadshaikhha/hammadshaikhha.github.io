@@ -15,8 +15,6 @@ Twitter
 ---
 <https://twitter.com/HammadShaikhha>
 
-Address
----
-150 St. George Street, Office 74, Toronto, ON, M5S 3G7
+
 
 
