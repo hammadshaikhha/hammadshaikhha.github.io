@@ -13,4 +13,3 @@ My research focuses on improving the design of foundational university courses w
 
 I am an Assistant Professor of Economics at the [University of Stavanger Business School](https://www.uis.no/en/university-of-stavanger-business-school).
 
-[Curriculum Vitae](https://shaikhhammad.com/files/HammadShaikhCV.pdf){: .btn}
