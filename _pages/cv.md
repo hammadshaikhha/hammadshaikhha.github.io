@@ -18,19 +18,24 @@ Summary
 *  Research Interests: Public, Behavioural, Applied Econometrics, and Economics of Education 
 *  Teaching Interests: Public, Education, Econometrics, and Programming for Economist
 
+Employment
+======
+* Assistant Professor (tenure track), University of Stavanger Business School, 2022 - Present
+
 
 Education
 ======
-* PhD in Economics, University of Toronto, 2022 (expected)
+* PhD in Economics, University of Toronto, 2022 
 * MA in Economics, University of Toronto, 2015
 * BSc in Math and Economics, University of Toronto, Mississauga,  2014
 
 Research
 ======
-* Improving Online Learning Through Course Design: A Microeconomic Approach (2021)
-* Provision of Online Public Goods: Evidence From a Peer Discussion Board (2020)
+* Identifying the STEM Learning Technology: Evidence from Online Learning (2023)
+* Grading Incentives and Student Effort in STEM: Evidence from Online Learning (2023)
+* Provision of Online Public Goods: Evidence From a Peer Discussion Board (2023)
+* The Impact of Information Disclosure on Student Course Selection (2022), with Robert McMillan and Linda Wang
 * Understanding Gender Gaps in STEM (2020), with Robert McMillan and Linda Wang
-* The Impact of Information Disclosure on Student Course Selection (2018), with Robert McMillan and Linda Wang
 
 
 Awards and Grants
@@ -43,6 +48,7 @@ Awards and Grants
 Work experience
 ======
 **Course Instructor**
+* Winter 2023: Applied Econometrics and Causal Inference 
 * Winter 2018: Human Capital and Education in the Economy
   * Student evaluation: mean rating = 4.6/5 and median rating = 5/5 
 
