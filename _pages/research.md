@@ -28,8 +28,8 @@ author_profile: true
 <h1> Work in Progresss </h1>
 
 **Effects of Structured Support from Leader on Employee Engagement (2023)**, with Simone Haeckl and Mari Rege [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/10967/history/172151)]
-We have developed a web application aiming to increase leaders' supportive leadership behaviors. This paper studies whether receiving structured support from leader increase employee motivation, reduce turnover, and improve store performance. The study takes place across several grocery stores which are part of a large supermarket chain in Norway. 
 
+<div style="text-align: justify"> <font size="-0.5"> We have developed a web application aiming to increase leaders' supportive leadership behaviors. This paper studies whether receiving structured support from leader increase employee motivation, reduce turnover, and improve store performance. The study takes place across several grocery stores which are part of a large supermarket chain in Norway. </font> </div>
 
 **Encouraging High-achieving Students to Enroll in Advanced Courses (2022)**, with Robert McMillan and Linda Wang
 
