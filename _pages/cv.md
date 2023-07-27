@@ -18,10 +18,6 @@ Summary
 *  Research Interests: Public, Behavioural, Applied Econometrics, and Economics of Education 
 *  Teaching Interests: Public, Education, Econometrics, and Programming for Economist
 
-Employment
-======
-* Assistant Professor (tenure track), University of Stavanger Business School, 2022 - Present
-
 
 Education
 ======
@@ -102,9 +98,6 @@ Academic Service
 
 Languages
 ======
-* English (Fluent), Urdu (Fluent), and Hindi (Intermediate) 
+* English (Fluent), Urdu (Fluent), and French (A2 - advanced beginner)
 
-References
-======
-<a href = "mailto: mcmillan@chass.utoronto.ca">Robert McMillan</a>, <a href = "mailto: siow@chass.utoronto.ca">Aloysius Siow</a>, and <a href = "mailto: ra.zarate@utoronto.ca">Roman Andres Zarate </a>
 
