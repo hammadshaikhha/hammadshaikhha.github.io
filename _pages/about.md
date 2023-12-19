@@ -9,5 +9,7 @@ redirect_from:
 
 I recently completed my PhD in Economics at the University of Toronto. My research interests are in Public Economics, Behavioural Economics, Applied Econometrics, and the Economics of Education.
 
-My research focuses on improving the design of foundational university courses with an emphasis on online education. I use evidence from field experiments and estimatable models of student effort choice to improve students' academic outcomes. 
+My research focuses on improving the design of foundational university courses with an emphasis on online education. I use evidence from field experiments and structural models of student effort choice to improve students' academic outcomes. 
+
+I am an Assistant Professor (tenure track) of Economics at the University of Stavanger School of Business and Law. 
 
