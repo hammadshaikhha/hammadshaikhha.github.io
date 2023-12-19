@@ -36,7 +36,7 @@ Research
 
 Awards and Grants
 ======
-* Excellence in Teaching by a Economics Teaching Assistant, 2020
+* Excellence in Teaching by an Economics Teaching Assistant, 2020
 * Ontario Graduate Scholarship ($15000 x 2), 2019 - 2020
 * University of Toronto Doctoral Fellowship ($12000 x 5), 2015 - 2019
 
@@ -44,8 +44,11 @@ Awards and Grants
 Work experience
 ======
 **Course Instructor**
-* Winter 2023: Applied Econometrics and Causal Inference 
-* Winter 2018: Human Capital and Education in the Economy
+* Fall 2023: Microeconomics (Masters)
+  * Student evaluation: mean rating = 4.3/5 and median rating = 4/5 
+* Winter 2023: Applied Econometrics and Causal Inference (Masters)
+  * Student evaluation: mean rating = 4.1/5 and median rating = 5/5 
+* Winter 2018: Human Capital and Education in the Economy (Undergraduate)
   * Student evaluation: mean rating = 4.6/5 and median rating = 5/5 
 
 **Teaching Assistant**
@@ -56,7 +59,7 @@ Work experience
   * Introduction to Mathematical Proofs
 
 * Fall 2014 - Present: Economics Teaching Assistant
-  * Quantative Methods of Economics (x8)
+  * Quantitative Methods of Economics (x8)
   * Applied Econometrics (x3)
   * Empirical Methods of Microeconomics
   * Matlab, R, and Stata Programming for Economists (x3)
