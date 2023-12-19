@@ -7,7 +7,17 @@ author_profile: true
 
 Course Instructor 
 ---
-**Human Capital and Education in the Economy**
+
+**Microeconomics (Masters)**
+<u>Course Evaluation</u>: mean student rating = 4.3/5 (median = 4/5) 
+
+
+**Research Methods: Causal Inference (Masters)**
+
+<u>Course Evaluation</u>: mean student rating = 4.1/5 (median = 5/5) 
+
+
+**Human Capital and Education in the Economy (Undergraduate)**
 
 <u>Course Evaluation</u>: mean student rating = 4.6/5 (median = 5/5) 
 
