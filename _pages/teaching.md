@@ -13,7 +13,7 @@ Course Instructor
 <u>Course Evaluation</u>: mean student rating = 4.3/5 (median = 4/5) 
 
 
-**Research Methods: Applied Econometrics and Causal Inference (Masters)**
+**Applied Econometrics and Causal Inference (Masters)**
 
 <u>Course Evaluation</u>: mean student rating = 4.1/5 (median = 5/5) 
 
