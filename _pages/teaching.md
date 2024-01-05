@@ -8,17 +8,17 @@ author_profile: true
 Course Instructor 
 ---
 
-**Microeconomics (Masters)**
+**Microeconomics (Masters), UiS**
 
 <u>Course Evaluation</u>: mean student rating = 4.3/5 (median = 4/5) 
 
 
-**Applied Econometrics and Causal Inference (Masters)**
+**Applied Econometrics and Causal Inference (Masters), UiS**
 
 <u>Course Evaluation</u>: mean student rating = 4.1/5 (median = 5/5) 
 
 
-**Human Capital and Education in the Economy (Undergraduate)**
+**Human Capital and Education in the Economy (Undergraduate), University of Toronto Mississauga**
 
 <u>Course Evaluation</u>: mean student rating = 4.6/5 (median = 5/5) 
 
@@ -28,7 +28,7 @@ Course Instructor
 
 Teaching Assistant
 ---
-<u>Awards</u>: I recieved the Economics Teaching Assistant award in 2020 and was also nominated for a tri-campus TA award in 2013. 
+<u>Awards</u>: I recieved the Economics Teaching Assistant award in 2020 and was also nominated for a tri-campus TA award in 2013 at the University of Toronto. 
 
 **Applied Econometrics I: Cross-Sectional Data**
 
