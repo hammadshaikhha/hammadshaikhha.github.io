@@ -11,10 +11,5 @@ Email
 ---
 <hammad.shaikh@uis.no>
 
-Twitter
----
-<https://twitter.com/HammadShaikhha>
-
-
 
 
