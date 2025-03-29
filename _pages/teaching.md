@@ -8,17 +8,17 @@ author_profile: true
 Course Instructor 
 ---
 
-**Microeconomics (Masters), UiS**
+**Microeconomics (Masters) **
 
 <u>Course Evaluation</u>: mean student rating = 4.3/5 (median = 4/5) 
 
 
-**Applied Econometrics and Causal Inference (Masters), UiS**
+**Applied Econometrics and Causal Inference (Masters) **
 
 <u>Course Evaluation</u>: mean student rating = 4.1/5 (median = 5/5) 
 
 
-**Human Capital and Education in the Economy (Undergraduate), University of Toronto Mississauga**
+**Human Capital and Education in the Economy (Undergraduate) **
 
 <u>Course Evaluation</u>: mean student rating = 4.6/5 (median = 5/5) 
 
