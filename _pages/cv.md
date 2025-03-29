@@ -44,15 +44,15 @@ Awards and Grants
 Work experience
 ======
 **Course Instructor**
-* Fall 2023: Microeconomics (Masters)
+* Microeconomics (Masters)
   * Student evaluation: mean rating = 4.3/5 and median rating = 4/5 
-* Winter 2023: Applied Econometrics and Causal Inference (Masters)
+* Applied Econometrics and Causal Inference (Masters)
   * Student evaluation: mean rating = 4.1/5 and median rating = 5/5 
-* Winter 2018: Human Capital and Education in the Economy (Undergraduate)
+* Human Capital and Education in the Economy (Undergraduate)
   * Student evaluation: mean rating = 4.6/5 and median rating = 5/5 
 
 **Teaching Assistant**
-* Fall 2013 - Summer 2014: Mathematics Teaching Assistant
+* Mathematics Teaching Assistant
   * Calculus I (x4)
   * Calculus II
   * Linear Algebra
@@ -66,15 +66,15 @@ Work experience
   * UTM Graduate Help Desk (x6)
 
 **Research Assistant**
-* Summer 2014 - Present, Project: Incentive Design in Education
+* Project: Incentive Design in Education
   * Structural estimation in Matlab.  
   * Supervisor: Professor Robert McMillan
 
-* Summer 2017 - 2018, Project: Affirmitive Action and Student Effort
+* Affirmitive Action and Student Effort
   * Empirical analysis in Stata.
   * Supervisor: Professor Natalie Bau
   
-* Winter 2018 - Present, Project: New Method for Estimating Teacher Value Added
+* New Method for Estimating Teacher Value Added
   * Maximum Likelihood Estimation in R. 
   * Supervisor: Professor Jiaying Gu
  
