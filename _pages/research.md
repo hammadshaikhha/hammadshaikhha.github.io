@@ -10,15 +10,16 @@ author_profile: true
 
 <h1> Working Papers </h1>
 
-**Supportive Leadership and Employee Satisfaction and Retention: Causal Evidence from a Large Grocery Store Chain** with Jon-Sander Amland and Mari Rege  
-
-<div style="text-align: justify"> <font size="-0.5"> Can supportive leadership improve employee retention? While prior research documents correlations between leadership and retention, causal evidence remains limited. We estimate the causal effect of supportive leadership on employee retention using two complementary approaches. First, we apply an individual fixed-effects model to control for time-invariant employee characteristics. Second, we employ a jackknife instrumental variables strategy to address time-varying confounders. Drawing on rich data from 202 stores in a large Norwegian retail chain, we find that supportive leadership significantly improves employee well-being and retention. Both identification strategies yield consistent results. Policy simulations further suggest that retraining a low-support leader to average supportiveness can substantially increase retention. Our findings underscore the importance of supportive leadership for engaging and retaining employees.  </font> </div>
 
 
-**Don't let your fruits rot: An experimental investigation of leadership training in a grocery store.** with Simone Haeckl and Mari Rege
+**Don't let your fruits rot: An experimental investigation of leadership training in a grocery store** with Simone Haeckl and Mari Rege
 
 <div style="text-align: justify"> <font size="-0.5"> Despite widespread use, evidence on the effectiveness of leadership training is limited. We study the effects of a state-of-the-art online leadership program in a retail chain with 159 stores and over 1000 employees. We use an event study approach to test the effects of the training,  controlling for seasonal effects. We find no impact of the training on customer satisfaction, food waste, or a measure of store profitability. In addition, we run an RCT to test whether we can improve the effectiveness by addressing two behavioral barriers to learning motivation. First, leaders may  doubt their own and their employees' capacity for skill development. Second, they might underinvest in training due to present bias. All stores received the training, with random assignment to the standard or enhanced version.  The enhanced version also showed no greater effect on productivity than the standard one. Leaders in the enhanced group reported being more supportive several months post-training. Still, we find no effect on employees’ work satisfaction, intention to quit, or turnover. </font> </div>
 
+
+**Supportive Leadership and Employee Satisfaction and Retention: Causal Evidence from a Large Grocery Store Chain** with Jon-Sander Amland and Mari Rege  
+
+<div style="text-align: justify"> <font size="-0.5"> Can supportive leadership improve employee retention? While prior research documents correlations between leadership and retention, causal evidence remains limited. We estimate the causal effect of supportive leadership on employee retention using two complementary approaches. First, we apply an individual fixed-effects model to control for time-invariant employee characteristics. Second, we employ a jackknife instrumental variables strategy to address time-varying confounders. Drawing on rich data from 202 stores in a large Norwegian retail chain, we find that supportive leadership significantly improves employee well-being and retention. Both identification strategies yield consistent results. Policy simulations further suggest that retraining a low-support leader to average supportiveness can substantially increase retention. Our findings underscore the importance of supportive leadership for engaging and retaining employees.  </font> </div>
 
 
 **Foreign Peers in Higher Education: The Effects of Internationalization on Native Students’ Academic Outcomes** with Melisa L. Diaz Lema
@@ -40,6 +41,7 @@ author_profile: true
 
 
 
+
 <h1> Work in Progresss </h1>
 
 **Local Language Acquisition and Social Integration: Evidence from a Field Experiment in Central Europe** with Cornel Nesseler and Jiaqi Zou
@@ -51,8 +53,9 @@ author_profile: true
 
 <div style="text-align: justify"> <font size="-0.5"> High-achieving students often enrol in less challenging university courses despite the availability of rigorous course options better suited to their capabilities.  This practice can restrict which courses they can take in future, and have adverse effects on students' human capital development more generally. This paper studies whether high-achieving students can be `nudged' successfully to follow a more ambitious track.  To that end, we conduct several field experiments across four student cohorts in a large research-intensive Canadian university, informing high-achieving first year economics students about advanced upper-year courses in various ways.  The nudging approaches differ in their cost and scalability. We find that providing an in-person information session significantly increases the probability of eligible first-year students enrolling in the most rigorous second-year economics courses. The enrolment impacts are especially strong for first-generation university students, who are initially less aware of the availability of advanced course alternatives. In contrast, the same information delivered through an email message or an online information session does not have any statistically significant effect on students' propensity to enrol in advanced courses. Our analysis indicates that resource-intensive nudges that rely on personal contact can have significant impacts, relevant for university course enrolment policies. </font> </div>
 
-
 **Psychological Safety and Employee Satisfaction and Retention: Causal Evidence from a Large Grocery Store Chain** with Jon-Sander Amland,  Simone Haeckl, and Mari Rege  
+
+**From Autopilot to Co-Pilot: Guiding Effective AI Use in Higher Education** with Ajinkya Keskar, Ozlem Tonguc, and Case Tatro
 
 
 
