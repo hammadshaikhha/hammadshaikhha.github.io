@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<u>Awards</u>: I received the Economics Teaching Assistant award in 2020 and was also nominated for a tri-campus TA award in 2013 at the University of Toronto.
+
 Course Instructor 
 ---
 
@@ -17,6 +19,8 @@ Course Instructor
 
 <u>Course Evaluation</u>: mean student rating = 4.1/5 (median = 5/5) 
 
+**A/B Testing, Behavioural Economics, and Survey Design  (Executive MBA)**
+
 
 **Human Capital and Education in the Economy (Undergraduate)**
 
@@ -28,7 +32,6 @@ Course Instructor
 
 Teaching Assistant
 ---
-<u>Awards</u>: I recieved the Economics Teaching Assistant award in 2020 and was also nominated for a tri-campus TA award in 2013 at the University of Toronto. 
 
 **Applied Econometrics I: Cross-Sectional Data**
 
