@@ -10,6 +10,8 @@ author_profile: true
 
 <h1> Working Papers </h1>
 
+All working papers have full drafts and are available by request (currently being updated). 
+
 **Don't let your fruits rot: An experimental investigation of leadership training in a grocery store** with Simone Haeckl and Mari Rege
 
 <div style="text-align: justify"> <font size="-0.5"> Despite widespread use, evidence on the effectiveness of leadership training is limited. We study the effects of a state-of-the-art online leadership program in a retail chain with 159 stores and over 1000 employees. We use an event study approach to test the effects of the training,  controlling for seasonal effects. We find no impact of the training on customer satisfaction, food waste, or a measure of store profitability. In addition, we run an RCT to test whether we can improve the effectiveness by addressing two behavioral barriers to learning motivation. First, leaders may  doubt their own and their employees' capacity for skill development. Second, they might underinvest in training due to present bias. All stores received the training, with random assignment to the standard or enhanced version.  The enhanced version also showed no greater effect on productivity than the standard one. Leaders in the enhanced group reported being more supportive several months post-training. Still, we find no effect on employees’ work satisfaction, intention to quit, or turnover. </font> </div>
