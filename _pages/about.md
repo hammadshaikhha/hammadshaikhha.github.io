@@ -15,5 +15,5 @@ My research examines student success in higher education, the impact of supporti
 
 I teach microeconomics, econometrics, and experimental methods to master’s students in economics and business.  
 
-My CV can be viewed <span style="color:blue">[here](https://shaikhhammad.com/files/HammadShaikhCV.pdf) </span>.
+My CV can be viewed <span style="color:blue">[here](https://shaikhhammad.com/files/HammadShaikhCV.pdf)</span>.
 
