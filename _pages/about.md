@@ -13,7 +13,7 @@ I completed my PhD in Economics at the University of Toronto. My research intere
 
 My research examines student success in higher education, the impact of supportive leadership on employees, and the social integration of foreigners, using experimental and quasi-experimental methods.
 
-I teach microeconomics, econometrics, and experimental methods to master’s students in economics and business. <span style="color:blue"> 
+I teach microeconomics, econometrics, and experimental methods to master’s students in economics and business.  
 
-My CV can be viewed [here](https://shaikhhammad.com/files/HammadShaikhCV.pdf) </span>.
+My CV can be viewed <span style="color:blue">[here](https://shaikhhammad.com/files/HammadShaikhCV.pdf) </span>.
 
